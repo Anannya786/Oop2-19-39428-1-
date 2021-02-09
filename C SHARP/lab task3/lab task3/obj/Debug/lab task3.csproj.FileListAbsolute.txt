@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\C SHARP\lab task3\lab task3\bin\Debug\lab task3.exe.config
+C:\Users\USER\Documents\C SHARP\lab task3\lab task3\bin\Debug\lab task3.exe
+C:\Users\USER\Documents\C SHARP\lab task3\lab task3\bin\Debug\lab task3.pdb
+C:\Users\USER\Documents\C SHARP\lab task3\lab task3\obj\Debug\lab task3.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\C SHARP\lab task3\lab task3\obj\Debug\lab task3.exe
+C:\Users\USER\Documents\C SHARP\lab task3\lab task3\obj\Debug\lab task3.pdb
+C:\Users\USER\Desktop\C SHARP\lab task3\lab task3\bin\Debug\lab task3.exe.config
+C:\Users\USER\Desktop\C SHARP\lab task3\lab task3\obj\Debug\lab task3.exe
+C:\Users\USER\Desktop\C SHARP\lab task3\lab task3\obj\Debug\lab task3.pdb
